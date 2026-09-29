@@ -1,0 +1,9 @@
+langchain-core
+langchain
+langchain-groq
+langchain-community
+langgraph
+duckduckgo-search
+requests
+python-dotenv
+pydantic
